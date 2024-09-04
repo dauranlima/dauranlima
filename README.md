@@ -36,11 +36,11 @@
 
 <h3>⚙️ &nbsp;Back-end e banco de dados:</h3>
 
-![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
-![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=openjdk)
-![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=openjdk)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![MySQL](	https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white****)
+![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
                       
 </div>    
 
