@@ -15,7 +15,7 @@
   <div align="center" >
     <p width="100">🎓 Formado em Sistema de Informação em 2012 Pela Universidade Potiguar Natal RN; </p>                
    <p width="100">🚀   Atualmente tenho como foco principal em minha carreira as áreas de desenvolvimento web. Tenho utilizado a stack JavaScript (Node, React & TailwindCSS) para desenvolver as aplicações.</p>
-    <p width="100">⚡ Curiosidade: curto muito jogar jogar Dota 2 e CS.</p>
+
   </div>
   
  <br/>
