@@ -14,7 +14,7 @@
 <div style="display: inline_block">
   <div align="center" >
     <p width="100">🎓 Formado em Sistema de Informação em 2012 Pela Universidade Potiguar Natal RN; </p>                
-   <p width="100">🚀   Atualmente tenho como foco principal em minha carreira as áreas de desenvolvimento web. Tenho utilizado a stack JavaScript (Node, React & TailwindCSS) para desenvolver as aplicações.</p>
+   <p width="100">🚀   Atualmente tenho como foco principal em minha carreira as áreas de desenvolvimento de Apps e sistemas web. Tenho utilizado a stack JavaScript (Node, React & TailwindCSS) para desenvolver as aplicações. e React Native para Mobile usando Expo</p>
 
   </div>
   
