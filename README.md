@@ -13,8 +13,10 @@
 <br>
 <div style="display: inline_block">
   <div align="center" >
-    <p width="100">🎓 Formado em Sistema de Informação em 2012 Pela Universidade Potiguar Natal RN; </p>                
+    <p width="100">🎓 Formado em Sistema de Informação em 2012 Pela Universidade Potiguar Natal RN; </p>     
+   <p width="100">🎓 Graduated in Information Systems in 2012 from Universidade Potiguar Natal RN;; </p>     
    <p width="100">🚀   Atualmente tenho como foco principal em minha carreira as áreas de desenvolvimento de Apps e sistemas web. Tenho utilizado a stack JavaScript (Node, React & TailwindCSS) para desenvolver as aplicações. e React Native para Mobile usando Expo</p>
+   <p width="100">🚀   Currently, my main focus in my career is the areas of App and web systems development. I have been using the JavaScript stack (Node, React & TailwindCSS) to develop applications. and React Native for Mobile</p>
 
   </div>
   
@@ -25,6 +27,7 @@
 <div align="center"> 
 
 ## Minhas Skills
+## My Skills
  <h3>💻 &nbsp;Front-end:</h3>
 
 ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
@@ -48,6 +51,7 @@
 <div align="center">
 
 ## Minhas Estatísticas
+
 
  <br>
   <img height="160em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=dauranlima88&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
